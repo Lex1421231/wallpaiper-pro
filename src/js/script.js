@@ -15,10 +15,10 @@ const wallpapers = [
     { id: 104, title: 'Метрополис', category: 'city', resolution: '1920x1200', url: '/src/img/gallery/city/104.jpg' },
     
     // Space category
-    { id: 201, title: 'Галактика', category: 'space', resolution: '1920x1200', url: '/src/img/gallery/space/201.jpg' },
+    { id: 201, title: 'Космонавт', category: 'space', resolution: '1920x1200', url: '/src/img/gallery/space/201.jpg' },
     { id: 202, title: 'Туманность', category: 'space', resolution: '1920x1200', url: '/src/img/gallery/space/202.jpg' },
-    { id: 203, title: 'Звёздное Небо', category: 'space', resolution: '1920x1200', url: '/src/img/gallery/space/203.jpg' },
-    { id: 204, title: 'Планета Земля', category: 'space', resolution: '1920x1200', url: '/src/img/gallery/space/204.jpg' },
+    { id: 203, title: 'Планета на закате', category: 'space', resolution: '1920x1200', url: '/src/img/gallery/space/203.jpg' },
+    { id: 204, title: 'Звёздное небо', category: 'space', resolution: '1920x1200', url: '/src/img/gallery/space/204.jpg' },
     
     // Abstract category
     { id: 301, title: 'Абстрактная Форма', category: 'abstract', resolution: '1920x1200', url: '/src/img/gallery/abstract/301.jpg' },
@@ -33,16 +33,19 @@ const wallpapers = [
     { id: 404, title: 'Цифровая Матрица', category: 'tech', resolution: '1920x1200', url: '/src/img/gallery/tech/404.jpg' },
     
     // Animals category
-    { id: 501, title: 'Львиная Грива', category: 'animals', resolution: '1920x1200', url: '/src/img/gallery/animals/501.jpg' },
-    { id: 502, title: 'Дикая Природа', category: 'animals', resolution: '1920x1200', url: '/src/img/gallery/animals/502.jpg' },
-    { id: 503, title: 'Океанские Животные', category: 'animals', resolution: '1920x1200', url: '/src/img/gallery/animals/503.jpg' },
-    { id: 504, title: 'Птицы в Полёте', category: 'animals', resolution: '1920x1200', url: '/src/img/gallery/animals/504.jpg' },
+    { id: 501, title: 'Чёрная кошка', category: 'animals', resolution: '1920x1200', url: '/src/img/gallery/animals/501.jpg' },
+    { id: 502, title: 'Енот', category: 'animals', resolution: '1920x1200', url: '/src/img/gallery/animals/502.jpg' },
+    { id: 503, title: 'Лев', category: 'animals', resolution: '1920x1200', url: '/src/img/gallery/animals/503.jpg' },
+    { id: 504, title: 'Лошади на закате', category: 'animals', resolution: '1920x1200', url: '/src/img/gallery/animals/504.jpg' },
     
     // Phone category
-    { id: 601, title: 'Минималистичный Градиент', category: 'Phone', resolution: '800x1280', url: '/src/img/gallery/Phone/601.jpg' },
-    { id: 602, title: 'Простота Линий', category: 'Phone', resolution: '800x1280', url: '/src/img/gallery/Phone/602.jpg' },
-    { id: 603, title: 'Чистые Формы', category: 'Phone', resolution: '800x1280', url: '/src/img/gallery/Phone/603.jpg' },
-    { id: 604, title: 'Элегантная Простота', category: 'Phone', resolution: '800x1280', url: '/src/img/gallery/Phone/604.jpg' }
+    { id: 601, title: 'Ростения', category: 'Phone', resolution: '800x1280', url: '/src/img/gallery/Phone/601.jpg' },
+    { id: 602, title: 'BMW', category: 'Phone', resolution: '800x1280', url: '/src/img/gallery/Phone/602.jpg' },
+    { id: 603, title: 'Осений лист', category: 'Phone', resolution: '800x1280', url: '/src/img/gallery/Phone/603.jpg' },
+    { id: 604, title: 'Капля воды', category: 'Phone', resolution: '800x1280', url: '/src/img/gallery/Phone/604.jpg' },
+    { id: 604, title: 'Горы', category: 'Phone', resolution: '736x1632', url: '/src/img/gallery/Phone/605.jpg' },
+    { id: 604, title: 'Лес', category: 'Phone', resolution: '704x1432', url: '/src/img/gallery/Phone/606.jpg' }
+    
     
 ];
 
